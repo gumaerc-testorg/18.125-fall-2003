@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4896f731-00cb-d2d7-4b75-4cf815e84a1a
 ---
@@ -12,7 +14,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Description
 -----------
 
-This course will be an introduction to abstract measure theory and the Lebesgue integral. We will begin by defining the Lebesgue integral, prove the main convergence theorems, and construct Lebesgue measure in Rn. Other topics include Lp_\-_ spaces, Radon-Nikodym Theorem, Lebesgue Differentiation Theorem, Fubini Theorem, Hausdorff measure, and the Area and Coarea Formulas.
+This course will be an introduction to abstract measure theory and the Lebesgue integral. We will begin by defining the Lebesgue integral, prove the main convergence theorems, and construct Lebesgue measure in R{{< sup "n" >}}. Other topics include L{{< sup "p" >}}_\-_ spaces, Radon-Nikodym Theorem, Lebesgue Differentiation Theorem, Fubini Theorem, Hausdorff measure, and the Area and Coarea Formulas.
 
 Prerequisite
 ------------
