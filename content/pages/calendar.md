@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 38d300a0-0b4c-2c08-d700-8efd9d72aedc
 ---
@@ -66,7 +69,7 @@ Definition of Lebesgue Integral
 {{< tdopen >}}
 Riemann Integral  
   
-Riemann Integrable <-> Continuous Almost Everywhere  
+Riemann Integrable \<-> Continuous Almost Everywhere  
   
 Comparison of Lebesgue and Riemann Integrals  
   
@@ -292,7 +295,7 @@ Riesz-Fischer Theorem (L^p is complete)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-C\_c Dense in L^p, 1 Leq p **<** Infty  
+C\_c Dense in L^p, 1 Leq p **\<** Infty  
   
 C\_c Dense in C\_o (Functions which vanish at Infty)
 {{< tdclose >}}
@@ -370,7 +373,7 @@ Young's Inequality
   
 Mollifiers  
   
-C^{Infty} Dense in L^p, 1 Leq p < Infty
+C^{Infty} Dense in L^p, 1 Leq p \< Infty
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -422,7 +425,7 @@ Another Proof of Young's Inequality
   
 Distribution Functions  
   
-Marcinkiewicz Interpolation: Maximal Operator Maps L^p to L^p for 1 < p Leq Infty
+Marcinkiewicz Interpolation: Maximal Operator Maps L^p to L^p for 1 \< p Leq Infty
 {{< tdclose >}}
 {{< tdopen >}}
 
